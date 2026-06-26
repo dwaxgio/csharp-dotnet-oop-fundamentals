@@ -1,0 +1,14 @@
+C:\Users\EDWARD\Documents\TRAVEFY_JOB_TEST\csharp-dotnet-oop-fundamentals\bin\Debug\net10.0\csharp-dotnet-oop-fundamentals.exe
+C:\Users\EDWARD\Documents\TRAVEFY_JOB_TEST\csharp-dotnet-oop-fundamentals\bin\Debug\net10.0\csharp-dotnet-oop-fundamentals.deps.json
+C:\Users\EDWARD\Documents\TRAVEFY_JOB_TEST\csharp-dotnet-oop-fundamentals\bin\Debug\net10.0\csharp-dotnet-oop-fundamentals.runtimeconfig.json
+C:\Users\EDWARD\Documents\TRAVEFY_JOB_TEST\csharp-dotnet-oop-fundamentals\bin\Debug\net10.0\csharp-dotnet-oop-fundamentals.dll
+C:\Users\EDWARD\Documents\TRAVEFY_JOB_TEST\csharp-dotnet-oop-fundamentals\bin\Debug\net10.0\csharp-dotnet-oop-fundamentals.pdb
+C:\Users\EDWARD\Documents\TRAVEFY_JOB_TEST\csharp-dotnet-oop-fundamentals\obj\Debug\net10.0\csharp-dotnet-oop-fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDWARD\Documents\TRAVEFY_JOB_TEST\csharp-dotnet-oop-fundamentals\obj\Debug\net10.0\csharp-dotnet-oop-fundamentals.AssemblyInfoInputs.cache
+C:\Users\EDWARD\Documents\TRAVEFY_JOB_TEST\csharp-dotnet-oop-fundamentals\obj\Debug\net10.0\csharp-dotnet-oop-fundamentals.AssemblyInfo.cs
+C:\Users\EDWARD\Documents\TRAVEFY_JOB_TEST\csharp-dotnet-oop-fundamentals\obj\Debug\net10.0\csharp-dotnet-oop-fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\EDWARD\Documents\TRAVEFY_JOB_TEST\csharp-dotnet-oop-fundamentals\obj\Debug\net10.0\csharp-dotnet-oop-fundamentals.dll
+C:\Users\EDWARD\Documents\TRAVEFY_JOB_TEST\csharp-dotnet-oop-fundamentals\obj\Debug\net10.0\refint\csharp-dotnet-oop-fundamentals.dll
+C:\Users\EDWARD\Documents\TRAVEFY_JOB_TEST\csharp-dotnet-oop-fundamentals\obj\Debug\net10.0\csharp-dotnet-oop-fundamentals.pdb
+C:\Users\EDWARD\Documents\TRAVEFY_JOB_TEST\csharp-dotnet-oop-fundamentals\obj\Debug\net10.0\csharp-dotnet-oop-fundamentals.genruntimeconfig.cache
+C:\Users\EDWARD\Documents\TRAVEFY_JOB_TEST\csharp-dotnet-oop-fundamentals\obj\Debug\net10.0\ref\csharp-dotnet-oop-fundamentals.dll
