@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp-dotnet-oop-fundamentals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00dd13a626e151a9e5e39512b52e9005ba41826f")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp-dotnet-oop-fundamentals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp-dotnet-oop-fundamentals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
