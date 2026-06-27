@@ -1,4 +1,4 @@
-﻿using System; // Permite usar Console.WriteLine
+﻿using System; // Allows to use Console.WriteLine
 
 public interface IMessageWriter // public: accessible from anywhere
 // interface: a contract / promise. It says: "whoever implements me must have these members
